@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Tue Mar 14 07:54:19 2023
+# Process ID: 8824
+# Current directory: D:/Desktop/UART_Tx/UART_Tx.runs/synth_1
+# Command line: vivado.exe -log Top_Module.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Top_Module.tcl
+# Log file: D:/Desktop/UART_Tx/UART_Tx.runs/synth_1/Top_Module.vds
+# Journal file: D:/Desktop/UART_Tx/UART_Tx.runs/synth_1\vivado.jou
+# Running On: edesse, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 6, Host memory: 8512 MB
+#-----------------------------------------------------------
+source Top_Module.tcl -notrace
